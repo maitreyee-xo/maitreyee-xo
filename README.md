@@ -1,4 +1,5 @@
--just another random programmer who is trying to learn more and more about Python and C
+-just another random programmer trying to expand her knowledge
+- newbie 
 
 <!---
 maitreyee-xo/maitreyee-xo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
