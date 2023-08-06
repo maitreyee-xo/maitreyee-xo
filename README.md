@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maitreyee!</h1>
-<h3 align="center">👋 Hello! I'm a full stack web developer passionate about expanding my knowledge and skills. Currently, I am working as a CXDX intern at Adobe. I like to create dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end development, I enjoy tackling complex challenges and finding innovative solutions. I actively explore new technologies and frameworks. Ping me up if you are up for collaborations!</h3>
+<h3 align="center">👋 Hello! I'm a full stack web developer passionate about expanding my knowledge and skills. I have worked as an intern at Adobe. I like to create dynamic and user-friendly web applications. With a strong foundation in both front-end and back-end development, I enjoy tackling complex challenges and finding innovative solutions. I actively explore new technologies and frameworks. Ping me up if you are up for collaborations!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitreyee-xo&label=Profile%20views&color=0e75b6&style=flat" alt="maitreyee-xo" /> </p>
 
