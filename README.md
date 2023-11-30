@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitreyee-xo&label=Profile%20views&color=0e75b6&style=flat" alt="maitreyee-xo" /> </p>
 
-- 📫 How to reach me **maitreyees20@gmail.com**
+- 📫 How to reach me **maitreyeexo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VxKTtPBHOD9W8Qf8XcWcCaKdkHYFG_3j/view?usp=share_link](https://drive.google.com/file/d/1VxKTtPBHOD9W8Qf8XcWcCaKdkHYFG_3j/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19OF77qW7W1hHQ1IKlGhHTGOzS0KLhRnH/view?usp=share_link](https://drive.google.com/file/d/19OF77qW7W1hHQ1IKlGhHTGOzS0KLhRnH/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
